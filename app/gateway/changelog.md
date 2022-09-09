@@ -11,6 +11,10 @@ no_version: true
 > **Important**: Kong Gateway 3.0.0.0 is a major release and contains breaking changes.
 Review the [breaking changes and deprecations](#breaking-changes-and-deprecations) and the [known limitations](#known-limitations) before attempting to upgrade.
 
+{:.warning .no-icon}
+> The 3.0.0.0 RPM packages are not yet available. We are working to resolve this issue.
+> You can find the Alpine, Debian, and Ubuntu Docker images on [Docker Hub](https://hub.docker.com/r/kong/kong-gateway/tags), and the Ubuntu and Debian packages on [download.konghq.com](https://download.konghq.com).
+
 ### Features
 
 #### Enterprise

@@ -2,6 +2,11 @@
 title: Install Kong Gateway on RHEL
 ---
 
+{:.warning .no-icon}
+> The 3.0.0.0 RPM packages are not yet available. We are working to resolve this issue.
+> You can find the Alpine, Debian, and Ubuntu Docker images on [Docker Hub](https://hub.docker.com/r/kong/kong-gateway/tags), and the Ubuntu and Debian packages on [download.konghq.com](https://download.konghq.com).
+
+
 The {{site.base_gateway}} software is governed by the
 [Kong Software License Agreement](https://konghq.com/kongsoftwarelicense).
 Kong is licensed under an
